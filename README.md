@@ -1,4 +1,4 @@
-### Olá eu sou o Wallace 👋
+### Olá eu sou o Wallace 👋, desenvolvedor FullStack utilizando as tecnologias JavaScript, TypeScript, React, Node e Python
 
 <div>
   <a href="https://beacons.ai/wallacesfos">
