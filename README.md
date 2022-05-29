@@ -1,6 +1,6 @@
 ### Olá eu sou o Wallace 👋, desenvolvedor FullStack utilizando as tecnologias JavaScript, TypeScript, React, Node e Python
 
-<div>
+<div align="center">
   <a href="https://beacons.ai/wallacesfos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacesfos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacesfos&layout=compact&langs_count=16&theme=dracula"/>
