@@ -1,15 +1,16 @@
 ### Olá eu sou o Wallace 👋, desenvolvedor FullStack utilizando as tecnologias JavaScript, TypeScript, React, Node e Python
 
-<div align="center">
+<div>
   <a href="https://beacons.ai/wallacesfos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacesfos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacesfos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  
- <p align="center">
+  <br/>
+ <p>
    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wallacesfos&theme=dracula" alt="wallacesfos" />
  </p>
- <div align="center" style="display: inline_block"><br>
+  <hr/>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Wallace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wallace-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wallace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,10 +24,11 @@
 </div>
 
  <br />
-  
-<div align="center">
+  <hr/>
+<div >
   <a href="https://instagram.com/wallacesfo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallace-oliveira-702497209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  <hr/>
   
 ![Snake animation](https://github.com/wallacesfos/wallacesfos/blob/output/github-contribution-grid-snake.svg)
