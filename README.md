@@ -1,12 +1,14 @@
 ### Olá eu sou o Wallace 👋, desenvolvedor FullStack utilizando as tecnologias JavaScript, TypeScript, React, Node e Python
 
-<div align="center">
+<div>
   <a href="https://beacons.ai/wallacesfos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacesfos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacesfos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-  
+ <p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wallacesfos&theme=dracula" alt="felipelarson" />
+ </p>
  <div style="display: inline_block"><br>
   <img align="center" alt="Wallace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wallace-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
